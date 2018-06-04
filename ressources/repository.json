@@ -9,6 +9,15 @@
         "dependencies": null
     },
     {
+        "name": "AntiAFK",
+        "author": "Bluscream",
+        "version": "1.0",
+        "apiVersion": "21",
+        "description": "A anti anti afk script",
+        "url": "https://raw.githubusercontent.com/Bluscream/pyTSon_plugins/master/scripts/antiAFK/__init__.py",
+        "dependencies": null
+    },
+    {
         "name": "Extended Info",
         "author": "Bluscream",
         "version": "1.0",
